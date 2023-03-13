@@ -1,6 +1,65 @@
+/* style of resume  */
+
 BODY {
     font-family: 'Open Sans', arial sans-serif;
     font-size: 1em;
     color: #444;
     font-weight: 400;
 }
+
+/* name  */
+h1 {
+font-size: 3.5em;
+text-transform: uppercase;
+color: #33485e;
+text-align: center;
+
+}
+
+/* student journalist  */
+strong {
+
+color: #33485e;
+text-transform: uppercase;
+font-size: 2em;
+
+}
+
+/* section titles  */
+
+h2 {
+
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    background-color: #33485e;
+    
+    }
+
+/* job titles  */
+
+h3 {
+    
+    font-size: 2em;
+    font-weight: 600;
+    
+    
+    }
+
+/* job orgs  */    
+
+h4 {
+
+    font-size: 1.5em;
+    font-weight: 400;
+            
+    }
+
+
+ h5 {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1em;   
+                
+    }
+    

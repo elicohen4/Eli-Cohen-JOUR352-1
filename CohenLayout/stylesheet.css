@@ -1,0 +1,62 @@
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#headline  {
+
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #7e3939;
+
+}
+
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+p  {
+    font-family: Georgia serif;
+    font-size: 13px;
+}
+
+h2 {
+    text-align: center;
+    font-style: bold;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+#hyperlink1 {
+    font-family: Georgia serif;
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+}
+
+#hyperlink2 {
+    font-family: Georgia serif;
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+}
+
+#hyperlink3 {
+    font-family: Georgia serif;
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+blockquote  {
+    font-size: large;
+    font-family: monospace;
+    width: 200px;
+    border: 80px;
+    padding: 20px; color: #7e3939;
+}
