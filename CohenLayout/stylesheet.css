@@ -45,3 +45,7 @@ blockquote  {
     border: 80px;
     padding: 20px; color: #7e3939;
 }
+
+li  {
+    list-style-type: none;
+}
