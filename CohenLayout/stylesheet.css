@@ -31,32 +31,17 @@ h2 {
     text-transform: uppercase;
 }
 
-#hyperlink1 {
+.hyperlink {
     font-family: Georgia serif;
     font-size: 13px;
     font-style: italic;
     text-align: center;
 }
-
-#hyperlink2 {
-    font-family: Georgia serif;
-    font-size: 13px;
-    font-style: italic;
-    text-align: center;
-}
-
-#hyperlink3 {
-    font-family: Georgia serif;
-    font-size: 13px;
-    font-style: italic;
-    text-align: center;
-}
-
 
 blockquote  {
     font-size: large;
     font-family: monospace;
-    width: 200px;
+    width: 900px;
     border: 80px;
     padding: 20px; color: #7e3939;
 }
