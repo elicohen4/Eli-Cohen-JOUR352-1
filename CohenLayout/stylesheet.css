@@ -64,12 +64,12 @@ li  {
     height: 40px;
     background-image: linear-gradient(#85b0bb, #4c6c73);
     text-align: center;
-    font-family: megrim;
+    font-family: "Audiowide";
     font-size: 50px;
     padding-bottom: 40px;
     word-spacing: 15px;
     letter-spacing: 5px;
-
+   text-shadow: 3px 3px 3px yellow;
 }
 
 #header2 {
